@@ -19,6 +19,3 @@ This repository contains solutions to competitive programming problems from the 
 
 Contributions are welcome! Feel free to add your own solutions or suggest improvements to existing ones. Pull requests are encouraged.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
